@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\bin\Debug\netcoreapp3.1\Excepciones_Ej.exe
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\bin\Debug\netcoreapp3.1\Excepciones_Ej.deps.json
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\bin\Debug\netcoreapp3.1\Excepciones_Ej.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\bin\Debug\netcoreapp3.1\Excepciones_Ej.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\bin\Debug\netcoreapp3.1\Excepciones_Ej.dll
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\bin\Debug\netcoreapp3.1\Excepciones_Ej.pdb
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.dll
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.pdb
+C:\Users\LENOVO\source\repos\Excepciones\Excepciones Test\obj\Debug\netcoreapp3.1\Excepciones_Ej.genruntimeconfig.cache
